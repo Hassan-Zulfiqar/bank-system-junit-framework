@@ -1,0 +1,6 @@
+amount,expected
+100,1100
+200,1200
+-50,ERROR
+0,ERROR
+500,1500
